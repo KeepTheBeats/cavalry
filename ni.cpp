@@ -9,5 +9,6 @@ int main(){
     for(int i=0;i<10;i++){
     	printf("%d\n",i);
     }
+    printf("这就是我，蓝猫！\n");
     return 0;
 }
